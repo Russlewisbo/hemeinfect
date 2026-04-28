@@ -542,30 +542,45 @@ mortality**</center>
 ::: {.column width="33%"}
 **Phase I (1--10 days)**
 
+- CoNS *Staphylococcus*
+
+- Enterobacteriaceae
+
+- Viridans streptococci
+
+- Anaerobes
+
+- *Enterococcus*
+
+- *C. difficile*
+
 - Herpes simplex
+
 - ± *Candida*
 :::
 
 ::: {.column width="33%"}
 **Phase II (10--27 days)**
 
-- CoNS *Staphylococcus*
-- Enterobacteriaceae
-- Viridans streptococci
-- Anaerobes
-- *Enterococcus*
-- *C. difficile*
-- Herpes simplex / *Candida*
+- Phase 1 pathogens, *plus:*
+
+- MRSA
+
+- VRE
+
+- Resistant GNR
+
+- *S. maltophilia*
+
+- Invasive moulds
 :::
 
 ::: {.column width="33%"}
 **Phase III (\>27 days)**
 
-- MRSA
-- VRE
-- Resistant GNR
-- *S. maltophilia*
-- Invasive moulds
+- Phase I&II pathogens, *plus*
+
+- Invasive molds
 :::
 ::::::
 
@@ -1312,9 +1327,7 @@ malignancies**
 
 ## References {.smaller}
 
-<style>
-.csl-entry { margin-bottom: 0.6em; }
-</style>
+<br>
 
 ::: {#refs}
 :::
