@@ -1,0 +1,1287 @@
+---
+format:
+  revealjs:
+    self-contained: true
+    spotlight: true
+    touch: true
+    controls: true
+    pointer: true
+    center-title-slide: false
+    transition: fade
+    transition-speed: fast
+    scrollable: true
+    slide-number: true
+    incremental: false
+    multiplex: false
+    chalkboard: false
+    theme: [custom.scss]
+    filters:
+     - highlight-text
+bibliography: references-hemeinfect.bib
+lightbox: true
+csl: diagnostic-microbiology-and-infectious-disease.csl
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Infections in Patients with Hemtalogical Malignancies {background-color="#b20e10"}
+
+<br> <br>
+
+<center>**Russell E. Lewis** <br> Associate Professor of Infectious
+Diseases <br> Department of Molecular Medicine <br> University of
+Padua</center>
+
+<br>
+
+![](images_FNspec/dmm_new.png){fig-align="center" width="350"}
+
+<br>
+
+<center><br> {{< fa solid envelope size=1x >}}
+russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}}
+[https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
+
+## Objectives
+
+<br>
+
+- What are the most common infections associated with short versus
+  prolonged neutropenia?
+
+- What are the unique risks of infection associated with targeted
+  therapies?
+
+- How does the presentation of skin, mucocutaneous lesions, abdominal
+  pain or pneumonia change the infection differential diagnosis?
+
+- What are common empiric antimicrobial regimens used to treat patients
+  while awaiting diagnostic results?
+
+## Agenda
+
+<br>
+
+- Classic infection risk factors and management
+- Current role of fluoroquinolone prophylaxis
+- What is the impact of new targeted therapies on infection risk?
+- Pneumonia and invasive fungal diseases
+
+::: callout-note
+Will focus mostly on epidemiology and general management principles \>
+specific drug therapy.
+:::
+
+------------------------------------------------------------------------
+
+## Effects of chemotherapy on hematopoiesis
+
+<br>
+
+![](images_FNspec/hematopoesis.png){fig-align="center" width="350"}
+
+Virtually all antineoplastic agents impair proliferation of
+hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
+**thrombocytopenia** and **neutropenia**.
+
+::::: columns
+::: {.column width="50%"}
+**Neutrophils**
+
+- Short-lived, post-mitotic cells
+- Continuously repopulated
+- Complete re-population 14--21 days after chemotherapy
+:::
+
+::: {.column width="50%"}
+**Lymphocytes**
+
+- Heterogeneous --- short- and long-lived cells
+- Considerable mitotic expansion
+- Restoration of heterogeneous populations and T-cell competence is slow
+  and often incomplete
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Causes of death at the dawn of the chemotherapy era for leukemia
+
+| Parameter          | 1954-- <br>1959 N (%) | 1960-- <br>1963 N (%) | *p*     |
+|--------------------|-----------------------|-----------------------|---------|
+| Patients           | 184                   | 170                   |         |
+| Hemorrhage alone   | 40 (22)               | 25 (14)               | \<0.001 |
+| Infection alone    | 45 (24)               | 80 (44)               | \<0.001 |
+| Infections (total) | 124 (67)              | 131 (71)              | NS      |
+| *S. aureus*        | 30 (24)               | 6 (5)                 | \<0.001 |
+| *E. coli*          | 27 (22)               | 17 (13)               | NS      |
+| *Klebsiella* spp.  | 9 (7)                 | 16 (12)               | NS      |
+| *P. aeruginosa*    | 31 (25)               | 45 (34)               | NS      |
+| Fungi              | 10 (8)                | 30 (23)               | \<0.001 |
+| Other              | 24 (13)               | 23 (12)               | NS      |
+
+- 47% of patients died with or from infection
+- *S. aureus* bacteremia mortality: 62%
+- *P. aeruginosa* bacteremia mortality: 100%
+
+[@hersh1965; @bodey2009history; @raab1960]
+
+------------------------------------------------------------------------
+
+## Fungal infections at the dawn of the chemotherapy era
+
+<br>
+
+**Insights from autopsy studies** [@bodey1966fungal]
+
+- 189 fungal infections in 161/454 patients (35%)
+- Most infections diagnosed *after* death
+- 127 invasive fungal infections:
+  - Invasive candidiasis (n = 73)
+  - Aspergillosis (n = 38)
+  - Mucormycosis (n = 6)
+
+**Risk factors:** prolonged neutropenia, corticosteroids.
+
+[@bodey2009history]
+
+------------------------------------------------------------------------
+
+## The vanishing medical autopsy
+
+<br>
+
+![](images_FNspec/iceberg.png){fig-align="center"}
+
+**Autopsy rates over two decades --- M.D. Anderson Cancer Center**
+
+- 1989--1993: 63%
+- 2004--2008: **6%**
+- In 2004--2008, **45%** of patients with proven aspergillosis at
+  autopsy had persistently negative galactomannan results.
+
+[@chamilos2006; @lewis2013]
+
+------------------------------------------------------------------------
+
+## Available antibiotics at the dawn of the chemotherapy era
+
+<br>
+
+::: callout-warning
+**No effective agents for *Pseudomonas aeruginosa*!**
+:::
+
+::::: columns
+::: {.column width="50%"}
+- Penicillin G
+- Erythromycin
+- Chloramphenicol
+- Tetracyclines
+- Polymyxins
+- Neomycin
+:::
+
+::: {.column width="50%"}
+- Streptomycin
+- Kanamycin
+- Vancomycin
+- Ristocetin
+- Novobiocin
+- Sulfas
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Prevalent attitudes in hematology wards in the 1960s
+
+<br>
+
+> "It is useless to aggressively treat infections if the leukemia
+> patient is not in remission."
+
+<!-- IMAGE: insert period quote/photo (was GoogleShape231p22.jpg) -->
+
+[@boggs1962]
+
+------------------------------------------------------------------------
+
+## Impact of carbenicillin on *P. aeruginosa* septicaemia in leukemic patients
+
+<br>
+
+**MD Anderson Cancer Center**
+
+| Clinical presentation  | 1965--68 Cure (%) | 1972--81 Cure (%) |
+|------------------------|-------------------|-------------------|
+| Overall                | 21                | 62                |
+| Shock                  | 0                 | 25                |
+| Pneumonia              | 0                 | 49                |
+| Persistent neutropenia | 6                 | 41                |
+| Persistent bacteremia  | 14                | 21                |
+
+::: aside
+Slide: Dr. Gerald Bodey
+:::
+
+------------------------------------------------------------------------
+
+## Absolute neutrophil count predicts the risk of infection
+
+<br>
+
+**The pioneering study of Dr. Gerald Bodey at the NCI**
+
+<!-- IMAGE: insert ANC vs. infection-risk graph (was GoogleShape262p24.jpg) -->
+
+- 10--25% of patients have active bacteremia.
+
+[@bodey1966ann]
+
+------------------------------------------------------------------------
+
+## Clinical signs of infection are muted in neutropenic patients
+
+<br>
+
+| Signs and symptoms    | \<100 | 101--1000 | \>1000 |
+|-----------------------|-------|-----------|--------|
+| Fever                 | 98    | 90        | 76     |
+| Fluctuance            | 6     | 36        | 52     |
+| Fissure or ulceration | 21    | 42        | 54     |
+| Exudate               | 11    | 64        | 91     |
+| Purulent sputum       | 8     | 67        | 84     |
+| Pyuria                | 11    | 63        | 97     |
+
+*% of patients with the indicated neutrophil count/mm³* [@sickles1975]
+
+------------------------------------------------------------------------
+
+## Empiric antimicrobial therapy
+
+<br>
+
+**A standard of care in febrile neutropenia**
+
+> "Beginning broad-spectrum empirical antibiotic therapy at the first
+> sign of fever in a profoundly neutropenic patient can be life-saving
+> and has been a standard of therapy for nearly 5 decades." [@pizzo2019]
+
+::: fragment
+**Trigger:** fever (\>38.0 °C) and neutropenia (\<0.5 × 10⁹ cells/L)
+:::
+
+::: fragment
+**Empiric IV monotherapy** (any of):
+
+- Piperacillin/tazobactam
+- Anti-pseudomonal carbapenem
+- Ceftazidime
+- Cefepime
+:::
+
+::: fragment
+**Adjust based on radiographic / culture data:**
+
+- Vancomycin/daptomycin or linezolid for cellulitis or pneumonia
+- Switch to carbapenem for pneumonia with Gram-negative bacteremia
+- Oral vancomycin for abdominal symptoms or suspected *C. difficile*
+- Antifungal therapy if persistent fever \> 72 h on antibiotics
+:::
+
+> "Many early approaches to the management of febrile neutropenic
+> patients remain relevant today, suggesting that some interventions
+> endure over the arc of time." [@pizzo2019]
+
+------------------------------------------------------------------------
+
+## Impact of improved supportive care
+
+<br>
+
+**Mortality during the first treatment month of acute myelogenous
+leukemia (*n* = 9 380)**
+
+<!-- IMAGE: insert SEER mortality-trend chart -->
+
+- Induction chemotherapy largely unchanged since the 1970s.
+- Decreasing mortality trend present in **all** patient cohorts.
+
+[@percival2015]
+
+------------------------------------------------------------------------
+
+## Pillars of hemato-oncology treatment
+
+<br>
+
+<!-- IMAGE: insert "pillars" infographic (chemotherapy / immunotherapy / radiation / surgery / personalized) -->
+
+- Chemotherapy
+- Immunotherapy / transplantation
+- Radiation
+- Surgery
+- **Targeted chemotherapy**
+- **Personalized immunotherapy** --- immune checkpoint inhibitors, CAR-T
+  therapy
+
+# Pathogenesis and epidemiology
+
+------------------------------------------------------------------------
+
+## Pathogenesis of infection during neutropenia
+
+<br>
+
+<!-- IMAGE: insert pathogenesis diagram (was GoogleShape323p30.jpg) -->
+
+------------------------------------------------------------------------
+
+## Chemotherapy-associated dysbiosis and mucosal barrier injury
+
+<br>
+
+<!-- IMAGE: insert dysbiosis / mucosal-injury figure (BioRender) -->
+
+------------------------------------------------------------------------
+
+## Mucositis
+
+<br>
+
+**WHO oral toxicity scale**
+
+<!-- IMAGE: insert WHO oral mucositis grade panel -->
+
+------------------------------------------------------------------------
+
+## GI tract is the major source of bacteremia
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Gram-negative bacilli**
+
+*Aerobic*
+
+- *Pseudomonas aeruginosa*
+
+*Facultatively anaerobic*
+
+- *Escherichia coli*
+- *Klebsiella pneumoniae*
+- *Enterobacter cloacae*
+
+*Capnophilic*
+
+- *Capnocytophaga* species
+
+*Anaerobic*
+
+- *Fusobacterium* species
+- *Leptotrichia buccalis*
+- *Prevotella* species
+:::
+
+::: {.column width="50%"}
+**Gram-positive cocci**
+
+*Oral viridans streptococci*
+
+- *Streptococcus mitis*
+- *Streptococcus oralis*
+- *Streptococcus sanguis*
+
+*Staphylococci*
+
+- *Staphylococcus epidermidis*
+
+*Others*
+
+- *Stomatococcus mucilaginosus*
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Causes of fever complicating induction chemotherapy
+
+<br>
+
+**AML patients (*n* = 748); Seràgnoli Institute 2007--2020**
+
+<!-- IMAGE: insert pie/bar chart of fever etiologies -->
+
+- Bacteremia documented in 10--25% of patients with fever
+- Aerobic Gram-positive and Gram-negative organisms
+- "Infectious etiologies are identified in \<50% of episodes"
+- 5.4% KPC *K. pneumoniae*; 2.5% ESBL *E. coli*
+
+------------------------------------------------------------------------
+
+## Clinical manifestations of culture-documented infection
+
+<br>
+
+**AML patients (*n* = 748); Seràgnoli Institute 2007--2020**
+
+<!-- IMAGE: insert chart of clinical manifestations -->
+
+CNS, central nervous system; GI, gastrointestinal.
+
+------------------------------------------------------------------------
+
+## Vesicular lesions, mucosal ulcers and thrush
+
+<br>
+
+**HSV / VZV reactivation**
+
+<!-- IMAGE: insert clinical photos of mucocutaneous lesions -->
+
+------------------------------------------------------------------------
+
+## Skin lesions in neutropenic patients
+
+<br>
+
+<!-- IMAGE: insert skin-lesion clinical panel (was GoogleShape434p37.jpg) -->
+
+------------------------------------------------------------------------
+
+## Ecthyma gangrenosum lesions
+
+<br>
+
+::: callout-tip
+**Biopsy!**
+:::
+
+<!-- IMAGE: insert ecthyma gangrenosum photo -->
+
+------------------------------------------------------------------------
+
+## *Clostridium difficile* and neutropenic colitis
+
+<br>
+
+- Diarrhea is common --- both infectious and non-infectious causes
+  - Chemotherapy-associated mucosal injury
+  - Neutropenic enterocolitis
+  - Drugs (e.g., oral magnesium supplements)
+- *C. difficile*-associated diarrhea (CDAD): incidence 10--30% in some
+  studies
+- Oral vancomycin, fidaxomicin \> metronidazole
+- Limited data for FMT, bezlotoxumab
+
+<!-- IMAGE: insert CDI/neutropenic-colitis schematic -->
+
+[@alonso2012]
+
+------------------------------------------------------------------------
+
+## Pathogenesis of infection during neutropenia
+
+<br>
+
+<!-- IMAGE: insert pathogenesis diagram (repeat, was GoogleShape455p40.jpg) -->
+
+------------------------------------------------------------------------
+
+## Lung infiltrates in leukemia patients
+
+<br>
+
+**Urgent CT imaging needed**
+
+<!-- IMAGE: insert CT collage of pulmonary infiltrates -->
+
+------------------------------------------------------------------------
+
+## Bronchoscopy: timing is critical
+
+<br>
+
+**Early microbiological diagnosis is associated with improved
+mortality**
+
+<!-- IMAGE: insert bronchoscopy timing/outcome chart -->
+
+------------------------------------------------------------------------
+
+## Infection risk versus duration of neutropenia
+
+<br>
+
+:::::: columns
+::: {.column width="33%"}
+**Phase I (1--10 days)**
+
+- Herpes simplex
+- ± *Candida*
+:::
+
+::: {.column width="33%"}
+**Phase II (10--27 days)**
+
+- CoNS *Staphylococcus*
+- Enterobacteriaceae
+- Viridans streptococci
+- Anaerobes
+- *Enterococcus*
+- *C. difficile*
+- Herpes simplex / *Candida*
+:::
+
+::: {.column width="33%"}
+**Phase III (\>27 days)**
+
+- MRSA
+- VRE
+- Resistant GNR
+- *S. maltophilia*
+- Invasive moulds
+:::
+::::::
+
+[@safdar2001]
+
+------------------------------------------------------------------------
+
+## Carbapenem-resistant bacteria
+
+<br>
+
+**Newer antibiotics with limited clinical data in neutropenic patients**
+
+<!-- IMAGE: insert ECDC resistance-atlas figure -->
+
+::::: columns
+::: {.column width="50%"}
+***Klebsiella pneumoniae*** **--- KPC**
+
+- ceftazidime/avibactam
+- meropenem/vaborbactam
+- imipenem/cilastatin/relebactam
+- cefiderocol
+- Old combinations (colistin, tigecycline, gentamicin)
+:::
+
+::: {.column width="50%"}
+***Acinetobacter baumannii***
+
+- HD ampicillin/sulbactam
+- cefiderocol
+- minocycline / tigecycline
+- colistin
+- sulbactam/durlobactam?
+:::
+:::::
+
+::: aside
+Source: ECDC Resistance atlas
+:::
+
+------------------------------------------------------------------------
+
+## Carbapenem-resistant *P. aeruginosa*
+
+<br>
+
+**Circulation of MDR high-virulence strains**
+
+<!-- IMAGE: insert outbreak/typing figure -->
+
+- *Pseudomonas aeruginosa* ST175 and ST23
+- VIM-1 carbapenemase and OXA-488
+- ExoU or ExoS exotoxins
+- Ceftolozane/tazobactam, ceftazidime/avibactam, aztreonam,
+  imipenem/cilastatin/relebactam, cefiderocol, colistin
+- Rapidly progressing necrotizing fasciitis (e.g., from washing feet in
+  a bidet)
+
+[@coppola2020; @tamma2021; @paul2021]
+
+------------------------------------------------------------------------
+
+## *P. aeruginosa* ST175 and ST23 outbreak in the hematology ward in Bologna
+
+<br>
+
+Required temporary suspension of admissions and cleaning of water
+systems and traps.
+
+<!-- IMAGE: insert outbreak timeline/table -->
+
+[@coppola2020]
+
+# Is fluoroquinolone prophylaxis still useful?
+
+------------------------------------------------------------------------
+
+## Is fluoroquinolone prophylaxis still useful?
+
+<br>
+
+**International guidelines on FQ prophylaxis**
+
+<!-- IMAGE: insert summary table of guidelines -->
+
+------------------------------------------------------------------------
+
+## Recent meta-analysis on FQ prophylaxis and mortality
+
+<br>
+
+<!-- IMAGE: insert forest plot / meta-analysis figure -->
+
+------------------------------------------------------------------------
+
+## Do all patients benefit from FQ prophylaxis / BSI reduction?
+
+<br>
+
+**Prospective study (4 223 alloHSCT, 3 602 autoHSCT, 930 acute leukemia
+on HDS, 2009--2014)**
+
+<!-- IMAGE: insert subgroup-effect figure -->
+
+[@kern2018]
+
+------------------------------------------------------------------------
+
+## FQ-resistant *Enterobacterales* colonization reduces FQ-prophylaxis effectiveness
+
+<br>
+
+<!-- IMAGE: insert colonization/efficacy figure -->
+
+[@satlin2021]
+
+------------------------------------------------------------------------
+
+## Squeezing the resistance balloon
+
+<br>
+
+<!-- IMAGE: insert "balloon" cascade graphic -->
+
+1.  Chemotherapy- and antibiotic-associated dysbiosis
+2.  Fluoroquinolone prophylaxis
+3.  ESBL colonization
+4.  Empiric carbapenem therapy to cover ESBLs
+5.  Colonization with carbapenem-producing *Enterobacterales*
+6.  **Carbapenem-resistant bloodstream infections**
+
+------------------------------------------------------------------------
+
+## To give or not to give fluoroquinolone prophylaxis?
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Why YES?**
+
+- Less neutropenic fever events
+- Less bloodstream infections
+:::
+
+::: {.column width="50%"}
+**Why NO?**
+
+- No difference in mortality?
+- Reduced efficacy in high-resistance settings
+- Infection with MDR and FQ-resistant bacteria
+- Adverse events (↑ QTc, etc.)
+- *Clostridium difficile*
+- Effect on gut microbiota
+:::
+:::::
+
+::: callout-note
+*But*… effect depends on FQ-resistance rate, FQR colonization, FQ type,
+and underlying disease.
+:::
+
+------------------------------------------------------------------------
+
+## What is the future?
+
+<br>
+
+- Personal approach directed by **screening** (not universal
+  prophylaxis)
+- Improved sepsis diagnosis and management [@slavin2019]
+- Individual risk score (Big data)
+- RCTs in high-resistance locations
+- Additional data on outcomes (CDI, resistance emergence, microbiome
+  changes)
+
+# How long to treat?
+
+**Classic dogma:** continue antibiotics until resolution of neutrophil
+count *irrespective* of fever response.
+
+------------------------------------------------------------------------
+
+## "How Long" study
+
+<br>
+
+<!-- IMAGE: insert How-Long trial design / outcomes figure -->
+
+[@aguilar2017]
+
+------------------------------------------------------------------------
+
+## "How Long": key findings
+
+<br>
+
+- FUO patients afebrile and clinically stable for 72 h after start of
+  empiric therapy could safely stop antimicrobial therapy
+- No difference in mortality, subsequent BSI or recurrent fever between
+  intervention and control arms
+- Antimicrobial-free days significantly higher in intervention arm
+  (median 16.1 vs. 13.6 days)
+- However, few alloHSCT patients enrolled
+- Average duration of fever in intervention group: 24 h
+
+[@aguilar2017]
+
+------------------------------------------------------------------------
+
+## Real-world implementation of early de-escalation
+
+<br>
+
+<!-- IMAGE: insert Verlinden et al. outcomes figure -->
+
+- Rate of alloHSCT: 28%
+- Clinical failure rates were similar between arms; **higher rate of BSI
+  in the post-implementation group**
+
+[@verlinden2022]
+
+------------------------------------------------------------------------
+
+## De-escalating empiric antimicrobial therapy
+
+<br>
+
+**2011 4th European Conference on Infections in Leukemia
+recommendations**
+
+::::: columns
+::: {.column width="50%"}
+**Patient stable at presentation and 76--96 h later**
+
+*Afebrile (FUO):*
+
+- Reevaluate appropriateness of antibiotic regimens
+- Consider stopping aminoglycoside, fluoroquinolone, or Gram-positive
+  agents
+- Continue current β-lactam or consider switch to narrow-spectrum agent
+
+*Clinically-documented infection:*
+
+- Reevaluate antibiotic regimens
+- Stop aminoglycosides, quinolone or Gram-positive agent if combined
+- Switch to narrower spectrum if sensitive
+- Consider stopping antibiotic treatment at ≥72 h if afebrile ≥48 h
+- Complicated vs. uncomplicated infection!
+:::
+
+::: {.column width="50%"}
+**Patient deteriorating**
+
+*Febrile:*
+
+- Diagnostic work-up
+- Consider resistant Gram-negative; empiric addition of colistin or
+  other broader-spectrum agent
+- Consider resistant Gram-positive pathogen; add appropriate therapy
+- Consider fungal, viral, and other etiologies of deterioration
+
+*Afebrile:*
+
+- Diagnostic work-up
+- Consider fungal and other atypical pathogens
+:::
+:::::
+
+::: aside
+FUO, fever of unknown origin.
+:::
+
+[@averbuch2013]
+
+# Unique infection risks with other immunosuppressive therapies
+
+------------------------------------------------------------------------
+
+## "Net state of immunosuppression"
+
+<br>
+
+<!-- IMAGE: insert "net state of immunosuppression" schematic -->
+
+------------------------------------------------------------------------
+
+## Corticosteroids
+
+<br>
+
+**The "credit cards" of immunosuppression**
+
+<!-- IMAGE: insert mechanism / dose-response figures -->
+
+[@chastain2023]
+
+------------------------------------------------------------------------
+
+## Suppressed cell-mediated immunity
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Macrophages, CD4⁺ T-helper lymphocytes**
+
+*Intracellular bacteria*
+
+- *Mycobacterium tuberculosis*
+- Atypical mycobacteria
+- *Legionella* spp.
+- *Listeria monocytogenes*
+- *Salmonella typhi*
+- *Nocardia* spp.
+
+*Fungi*
+
+- *Candida* spp.
+- Rare yeast (echinocandin-resistant)
+- Endemic fungi
+- *Cryptococcus*
+- *P. jirovecii*
+- Molds
+
+*Parasites*
+
+- *Toxoplasma gondii*
+- *Cryptosporidium*
+- *Leishmania*
+:::
+
+::: {.column width="50%"}
+**CD8⁺ cytotoxic T-cells**
+
+*Viruses*
+
+- Herpes simplex
+- Varicella zoster
+- Cytomegalovirus
+- HHV-6
+- Epstein-Barr
+- Adenovirus
+- Polyomaviruses
+- Influenza
+- Para-influenza
+- RSV
+:::
+:::::
+
+::: aside
+Drugs that suppress cell-mediated immunity: purine analogues (e.g.,
+fludarabine, 2-CDA, clofarabine), alemtuzumab, corticosteroids (\>20 mg
+prednisone equivalent for \>2 weeks), TNF-α inhibitors…
+:::
+
+------------------------------------------------------------------------
+
+## (Schematic of immune-cell--pathogen relationships)
+
+<br>
+
+<!-- IMAGE: insert immune-cell schematic (was GoogleShape793p64.jpg) -->
+
+------------------------------------------------------------------------
+
+## Leukemia progress: expansion of targeted therapies
+
+<br>
+
+| Disease | Current/future therapies | 5--10 yr survival |
+|------------------|-------------------------------|-----------------------|
+| Hairy-cell leukemia | Cladribine + rituximab | 90% |
+| Acute promyelocytic leukemia | ATRA ± gemtuzumab ozogamicin (GO) | 80--90% |
+| Core-binding-factor AML | FLAG-GO ± IDA; alloHSCT if MRD-positive | 80--90% |
+| AML, younger / fit | FLAG-IDA + venetoclax; CLIA + venetoclax; FLT3/IDH inhibitors; HMA-based maintenance ± menin inhibitors | 50--60%+ |
+| AML, older / unfit | Low-intensity triple nucleosides (cladribine, cytarabine, HMAs) + venetoclax; HMAs + venetoclax + targeted therapies | 40--50%? |
+| ALL \<60 y | Hyper-CVAD + CD19/CD22/CD20 antibodies | 60--70% |
+| ALL \>60 y | Mini-Hyper-CVAD, inotuzumab, blinatumomab | 50% |
+| Ph⁺ ALL | Hyper-CVAD + ponatinib; ponatinib + blinatumomab | 70--80%? |
+| CML | BCR-ABL1 TKIs (imatinib, dasatinib, bosutinib, nilotinib, ponatinib); alloHSCT | 85--90% |
+| CLL | Ibrutinib / other BTKi (acalabrutinib, zanubrutinib, pirtobrutinib) | 80--90%+ |
+| Higher-risk MDS | Parenteral / oral HMAs, venetoclax, others | 40%+ |
+
+[@kantarjian2021lh; @kantarjian2021cancer]
+
+------------------------------------------------------------------------
+
+## Unexpected consequences?
+
+<br>
+
+**Ibrutinib: Bruton's tyrosine kinase (BTK) inhibitor**
+
+**RESONATE-2 Trial (frontline ibrutinib for CLL)**
+
+<!-- IMAGE: insert RESONATE-2 PFS Kaplan-Meier curve -->
+
+|                 | Ibrutinib                       | Chlorambucil |
+|-----------------|---------------------------------|--------------|
+| Median survival | 18.9 mo                         | NR           |
+| HR              | 0.16 (0.09--0.28); *P* \< 0.001 |              |
+
+[@burger2015]
+
+------------------------------------------------------------------------
+
+## Aspergillosis associated with ibrutinib treatment
+
+<br>
+
+<!-- IMAGE: insert MRI brain abscess panel -->
+
+- Retrospective French surveillance (FILO): 33 cases of aspergillosis in
+  ibrutinib-treated CLL patients
+- CNS aspergillosis in 11/27 (40%); most cases within 3 months of
+  starting ibrutinib
+- All patients had refractory/relapsed disease and additional
+  predisposing factors (e.g., steroids in 7, neutropenia in 5)
+- T2-FLAIR MRI showing multiple cerebral abscesses
+
+[@ghez2018; @chamilos2018]
+
+------------------------------------------------------------------------
+
+## Fungal infections in patients receiving ibrutinib for lymphoid cancers
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**MDACC retrospective (2014--2018), *n* = 841**
+
+- 21 (2.5%) with proven/probable IFI
+- Mostly pneumonia
+- Primary fungus: *Aspergillus*
+- IFI risk factors:
+  - Monocytopenia (OR 6.00)
+  - ≥3 prior CLL therapies (OR 5.36)
+
+[@varughese2018]
+:::
+
+::: {.column width="50%"}
+**MSKCC experience, *n* = 378**
+
+<!-- IMAGE: insert MSKCC IFI breakdown chart -->
+
+- 62.5% of subjects lacked "classical" risk factors for fungal
+  infection.
+
+[@frei2020]
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Ibrutinib for steroid-refractory cGVHD
+
+<br>
+
+In the pivotal phase 1/2b studies, the most common adverse events were
+fatigue, diarrhea, muscle spasms, nausea, and bruising; relatively low
+incidence (18%) of pneumonia and only 1 case related to aspergillosis
+[@waller2019; @miklos2017].
+
+Limited "real-life" experience suggests higher rates of invasive fungal
+disease for steroid-refractory cGVHD [@kaloyannidis2021]:
+
+- Overall response in SR-cGVHD: 9/11 (82%)
+- Infections: 6/11 (55%)
+- Possible/proven invasive aspergillosis: 4/11 (36%)
+
+------------------------------------------------------------------------
+
+## Invasive fungal infection risk with targeted therapies
+
+<br>
+
+| Class | Relative IA incidence | Antifungal-prophylaxis / DDI considerations |
+|-----------------|------------------|-------------------------------------|
+| BiTE (blinatumomab) | Higher if post-alloHSCT, prolonged neutropenia, or CR — risk factors not reported | No known drug interactions |
+| FLT3 inhibitors (midostaurin, gilteritinib) | No clear ↑ post-alloHSCT? | Avoid strong CYP3A4 inhibitors; ↑ 2--10-fold AUC with itraconazole; monitor QTc; posaconazole or isavuconazole with TDM; no routine dose adjustment |
+| PI3Kδ (idelalisib) | ↑ risk of CMV, PJP, aspergillosis? | Avoid strong CYP3A4 inhibitors; ↑ 1.8-fold AUC with ketoconazole; monitor for toxicity |
+| IDH 1/2 (ivosidenib, enasidenib) | No clear ↑ infection; distinguish infection from differentiation syndrome | Avoid strong CYP3A4 inhibitors; ↑ 2.7-fold AUC with itraconazole; monitor QTc |
+| BCL-2 (venetoclax) | Possible ↑ risk (prolonged cytopenia) without prophylaxis | Dose-reduce venetoclax \>50--75% if azole indicated; ↑ 8.8-fold AUC with posaconazole |
+| HMAs (azacytidine, decitabine) | Lower in newly-treated patients; higher in refractory disease | Antifungal prophylaxis may not be needed initially; no triazole interactions |
+| Hedgehog inhibitor (glasdegib) | No data | Avoid with azole; monitor QTc |
+
+[@logan2020]
+
+------------------------------------------------------------------------
+
+## Adverse-effect monitoring: toxicities of small-molecule inhibitors (SMIs)
+
+<br>
+
+<!-- IMAGE: insert SMI toxicity overview figure -->
+
+::: callout-warning
+Differential diagnosis should always include drug interactions in
+patients on triazoles.
+:::
+
+[@wang2020]
+
+------------------------------------------------------------------------
+
+## Chimeric antigen receptor T-cell therapy
+
+<br>
+
+<!-- IMAGE: insert CAR-T therapy overview schematic -->
+
+------------------------------------------------------------------------
+
+## Infection risk with CAR-T therapy
+
+<br>
+
+<!-- IMAGE: insert CAR-T timeline of infection risks (Day -5 → Day 75) -->
+
+- Lymphodepleting chemotherapy (cyclophosphamide, fludarabine) → mucosal
+  damage
+- CAR-T cells → cytokine release syndrome (CRS), ICANS
+- Tocilizumab (anti-IL-6), corticosteroids
+- Underlying disease and prior therapies → lymphopenia,
+  hypogammaglobulinemia, neutropenia
+- Risk windows:
+  - **Bacterial infections** early
+  - **Viral infections** through neutropenia recovery
+  - **Fungal and other opportunistic infections** with prolonged
+    neutropenia or corticosteroids
+
+[@gudiol2021]
+
+------------------------------------------------------------------------
+
+## Checkpoint inhibitors
+
+<br>
+
+**Toxicities may overlap with symptoms of infection.**
+
+<!-- IMAGE: insert ICI organ-toxicity figure -->
+
+[@martins2019]
+
+------------------------------------------------------------------------
+
+## Opportunistic infections during ICI / IRAE management
+
+<br>
+
+Retrospective study of 740 melanoma patients at MSKCC (2010--2014)
+receiving immune checkpoint blockers:
+
+- Serious infection in 54 (7.3%); fungal infection in 6 (PJP 3, IPA 2)
+- Average time to infection: 135 days; 80% within 6 months
+- Risk factors: corticosteroids (OR 7.71), infliximab (OR 4.74)
+- Combination ipilimumab + nivolumab: ↑ risk; pembrolizumab inversely
+  associated
+
+[@delcastillo2016; @kyi2014; @arriola2015; @uslu2015]
+
+# Invasive fungal infections
+
+------------------------------------------------------------------------
+
+## Problem: non-specificity of CT findings
+
+<br>
+
+<!-- IMAGE: insert grid of CT images labeled with potential etiologies -->
+
+Possible causes of similar CT appearance: *P. aeruginosa* ·
+*Aspergillus* · *K. pneumoniae* · mould · CMV · *Cryptococcus* ·
+lymphoma · *Nocardia*
+
+------------------------------------------------------------------------
+
+## EORTC/MSG definitions of invasive fungal disease
+
+<br>
+
+**Epidemiology use only**
+
+| Category | Required evidence |
+|-------------------------|----------------------------------------------|
+| **Proven** | Direct evidence of fungal tissue invasion |
+| **Probable** | Host factors + clinical factors + indirect mycological evidence (e.g., galactomannan) |
+| **Possible** | Host factors + clinical factors |
+
+[@donnelly2019]
+
+------------------------------------------------------------------------
+
+## CT pulmonary angiography (CTPA) to improve specificity for invasive mold disease
+
+<br>
+
+**Fungal angioinvasion and vessel thrombosis**
+
+<!-- IMAGE: insert CTPA with vessel-occlusion sign panel -->
+
+[@sonnet2005; @stergiopoulou2007; @bergeron2012]
+
+------------------------------------------------------------------------
+
+## CTPA distinguishes mold vs. bacterial pneumonia in acute leukemia
+
+<br>
+
+<!-- IMAGE: insert VOS-positive vs. VOS-negative CT panel -->
+
+- **VOS positive:** proven mold disease by autopsy
+- **VOS negative:** bacterial pneumonia
+- VOS = vessel occlusion sign
+
+[@stanzani2012]
+
+------------------------------------------------------------------------
+
+## CTPA: case examples
+
+<br>
+
+<!-- IMAGE: insert paired clinical CTPA cases -->
+
+- AML consolidation; neutropenia; posaconazole prophylaxis; serum GM
+  negative → BAL: galactomannan 1.5 (VOS +)
+- Resistant CML; neutropenia; posaconazole prophylaxis; serum GM
+  negative → BAL: MDR *P. aeruginosa* +, GM − (VOS −)
+
+------------------------------------------------------------------------
+
+## PET/CT imaging: more useful for follow-up and detecting dissemination?
+
+<br>
+
+```{=html}
+<!-- IMAGE: insert ¹⁸F-FDG-PET/CT panels (sino-orbital aspergillosis,
+disseminated scedosporiosis, pulmonary aspergillus pre/post antifungal) -->
+```
+
+Selected ¹⁸F-FDG PET/CT images illustrating appearances of invasive
+fungal infection: (a) sino-orbital infection with *Aspergillus*; (b)
+disseminated scedosporiosis with avid splenic lesion; (c) pulmonary
+*Aspergillus* lesion in left lower lobe with discordant PET/CT and CT
+response after antifungal treatment.
+
+------------------------------------------------------------------------
+
+## Fungal sinusitis / pneumonia: breakthrough infections on prophylaxis
+
+<br>
+
+<!-- IMAGE: insert clinical / radiographic / micrographic panel -->
+
+Possible etiologies on prophylaxis breakthrough:
+
+- Resistant *Aspergillus*?
+- Mucorales
+- *Fusarium* spp.
+- *Scedosporium* spp.
+- Rare yeast (e.g., *Saprochaete clavata*)
+
+[@stanzani2019]
+
+------------------------------------------------------------------------
+
+## Invasive mucormycosis
+
+<br>
+
+<!-- IMAGE: insert mucormycosis clinical / radiographic panel -->
+
+------------------------------------------------------------------------
+
+## CT-specific findings for mucormycosis?
+
+<br>
+
+<!-- IMAGE: insert mucormycosis CT panel -->
+
+- Multiple bilateral nodular infiltrates
+
+# Final thoughts: what to do with persistent fever?
+
+------------------------------------------------------------------------
+
+## Persistent fevers --- what to do?
+
+<br>
+
+- **Wrong bug** (viruses? atypicals? *fungi*!)
+- **Wrong drug** (MDR pathogen?)
+- **Wrong process** (malignancy, transfusions, contrast, allergy, etc.)
+- **No source control** (endocarditis? CLABSI, osteomyelitis,
+  liver/abdominal abscess)
+- **Not enough time?**
+
+------------------------------------------------------------------------
+
+## Defervescence after start of effective antibiotics in neutropenic patients
+
+<br>
+
+<!-- IMAGE: insert time-to-defervescence curve -->
+
+[@depauw1994; @ramphal1992]
+
+------------------------------------------------------------------------
+
+## Summary
+
+<br>
+
+**Febrile neutropenia: infections in patients with hematological
+malignancies**
+
+- Despite new targeted treatments and immunotherapy, principles of
+  infection management --- especially empiric therapy --- are largely
+  unchanged.
+- Increasing focus on **earlier discontinuation** of therapy in
+  afebrile, clinically stable patients.
+- Imaging is progressing with **CT pulmonary angiography** and
+  **FDG-PET** to support antibiotic stewardship; potential for *labeled
+  PET* in the future.
+- Unique risk for infections with novel therapies --- an epidemiological
+  black box.
+
+------------------------------------------------------------------------
+
+## References {.smaller}
+
+<br>
+
+::: {#refs}
+:::
