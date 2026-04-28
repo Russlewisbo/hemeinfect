@@ -14,6 +14,7 @@ format:
     incremental: false
     multiplex: false
     chalkboard: false
+    smaller: true
     theme: [custom.scss]
     filters:
      - highlight-text
@@ -37,10 +38,10 @@ Padua</center>
 
 ![](images_FNspec/dmm_new.png){fig-align="center" width="350"}
 
-<br>
+<center>
 
-<center><br> {{< fa solid envelope size=1x >}}
-russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}}
+<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it
+<br> {{< fa brands github size=1x >}}
 [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
 ## Objectives
@@ -106,7 +107,9 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 
 ------------------------------------------------------------------------
 
-## Causes of death at the dawn of the chemotherapy era for leukemia
+## Causes of death at the dawn of the <br>chemotherapy era for leukemia
+
+<br>
 
 | Parameter          | 1954-- <br>1959 N (%) | 1960-- <br>1963 N (%) | *p*     |
 |--------------------|-----------------------|-----------------------|---------|
@@ -121,11 +124,15 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 | Fungi              | 10 (8)                | 30 (23)               | \<0.001 |
 | Other              | 24 (13)               | 23 (12)               | NS      |
 
+<br> br\>
+
 - 47% of patients died with or from infection
 - *S. aureus* bacteremia mortality: 62%
 - *P. aeruginosa* bacteremia mortality: 100%
 
+::: aside
 [@hersh1965; @bodey2009history; @raab1960]
+:::
 
 ------------------------------------------------------------------------
 
@@ -133,7 +140,7 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 
 <br>
 
-**Insights from autopsy studies** [@bodey1966fungal]
+**Insights from autopsy studies**
 
 - 189 fungal infections in 161/454 patients (35%)
 - Most infections diagnosed *after* death
@@ -144,7 +151,9 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 
 **Risk factors:** prolonged neutropenia, corticosteroids.
 
-[@bodey2009history]
+::: aside
+[@bodey1966fungal; @bodey2009history]
+:::
 
 ------------------------------------------------------------------------
 
@@ -161,7 +170,9 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 - In 2004--2008, **45%** of patients with proven aspergillosis at
   autopsy had persistently negative galactomannan results.
 
+::: aside
 [@chamilos2006; @lewis2013]
+:::
 
 ------------------------------------------------------------------------
 
@@ -204,7 +215,9 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 
 <!-- IMAGE: insert period quote/photo (was GoogleShape231p22.jpg) -->
 
+::: aside
 [@boggs1962]
+:::
 
 ------------------------------------------------------------------------
 
@@ -212,7 +225,7 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 
 <br>
 
-**MD Anderson Cancer Center**
+**MD Anderson Cancer Center** <br>
 
 | Clinical presentation  | 1965--68 Cure (%) | 1972--81 Cure (%) |
 |------------------------|-------------------|-------------------|
@@ -226,21 +239,42 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 Slide: Dr. Gerald Bodey
 :::
 
-------------------------------------------------------------------------
-
 ## Absolute neutrophil count predicts the risk of infection
 
 <br>
 
-**The pioneering study of Dr. Gerald Bodey at the NCI**
+![](images_FNspec/bodey.png){fig-align="center"}
 
-<!-- IMAGE: insert ANC vs. infection-risk graph (was GoogleShape262p24.jpg) -->
+**The pioneering study of Dr. Gerald Bodey at the NCI**
 
 - 10--25% of patients have active bacteremia.
 
+::: aside
 [@bodey1966ann]
+:::
 
-------------------------------------------------------------------------
+## Absolute neutrophil count
+
+<br>
+
+$$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands})}{100}$$
+
+<br> <br>
+
+| **ANC (cells/µL)** | **Interpretation** | **Clinical relevance**          |
+|--------------------|--------------------|---------------------------------|
+| 1000–1500          | Mild neutropenia   | Usually low risk                |
+| 500–1000           | Moderate           | Increased infection risk        |
+| **\<500**          | Severe neutropenia | High risk of serious infections |
+| **\<100**          | Profound           | Extremely high risk             |
+
+::: aside
+- The ANC correlates directly with risk of bacterial and fungal
+  infections
+- Below 500/µL, endogenous flora becomes dangerous (gut, skin)
+- Below 100/µL, risk becomes very high, especially with prolonged
+  duration
+:::
 
 ## Clinical signs of infection are muted in neutropenic patients
 
@@ -255,7 +289,11 @@ Slide: Dr. Gerald Bodey
 | Purulent sputum       | 8     | 67        | 84     |
 | Pyuria                | 11    | 63        | 97     |
 
-*% of patients with the indicated neutrophil count/mm³* [@sickles1975]
+*% of patients with the indicated neutrophil count/mm³*
+
+::: aside
+[@sickles1975]
+:::
 
 ------------------------------------------------------------------------
 
@@ -267,7 +305,7 @@ Slide: Dr. Gerald Bodey
 
 > "Beginning broad-spectrum empirical antibiotic therapy at the first
 > sign of fever in a profoundly neutropenic patient can be life-saving
-> and has been a standard of therapy for nearly 5 decades." [@pizzo2019]
+> and has been a standard of therapy for nearly 5 decades."
 
 ::: fragment
 **Trigger:** fever (\>38.0 °C) and neutropenia (\<0.5 × 10⁹ cells/L)
@@ -293,7 +331,11 @@ Slide: Dr. Gerald Bodey
 
 > "Many early approaches to the management of febrile neutropenic
 > patients remain relevant today, suggesting that some interventions
-> endure over the arc of time." [@pizzo2019]
+> endure over the arc of time."
+
+::: aside
+[@pizzo2019]
+:::
 
 ------------------------------------------------------------------------
 
@@ -309,7 +351,9 @@ leukemia (*n* = 9 380)**
 - Induction chemotherapy largely unchanged since the 1970s.
 - Decreasing mortality trend present in **all** patient cohorts.
 
+::: aside
 [@percival2015]
+:::
 
 ------------------------------------------------------------------------
 
@@ -479,7 +523,9 @@ CNS, central nervous system; GI, gastrointestinal.
 
 <!-- IMAGE: insert CDI/neutropenic-colitis schematic -->
 
+::: aside
 [@alonso2012]
+:::
 
 ------------------------------------------------------------------------
 
@@ -547,7 +593,9 @@ mortality**
 :::
 ::::::
 
+::: aside
 [@safdar2001]
+:::
 
 ------------------------------------------------------------------------
 
@@ -603,7 +651,9 @@ Source: ECDC Resistance atlas
 - Rapidly progressing necrotizing fasciitis (e.g., from washing feet in
   a bidet)
 
+::: aside
 [@coppola2020; @tamma2021; @paul2021]
+:::
 
 ------------------------------------------------------------------------
 
@@ -616,7 +666,9 @@ systems and traps.
 
 <!-- IMAGE: insert outbreak timeline/table -->
 
+::: aside
 [@coppola2020]
+:::
 
 # Is fluoroquinolone prophylaxis still useful?
 
@@ -649,7 +701,9 @@ on HDS, 2009--2014)**
 
 <!-- IMAGE: insert subgroup-effect figure -->
 
+::: aside
 [@kern2018]
+:::
 
 ------------------------------------------------------------------------
 
@@ -659,7 +713,9 @@ on HDS, 2009--2014)**
 
 <!-- IMAGE: insert colonization/efficacy figure -->
 
+::: aside
 [@satlin2021]
+:::
 
 ------------------------------------------------------------------------
 
@@ -715,11 +771,15 @@ and underlying disease.
 
 - Personal approach directed by **screening** (not universal
   prophylaxis)
-- Improved sepsis diagnosis and management [@slavin2019]
+- Improved sepsis diagnosis and management
 - Individual risk score (Big data)
 - RCTs in high-resistance locations
 - Additional data on outcomes (CDI, resistance emergence, microbiome
   changes)
+
+::: aside
+[@slavin2019]
+:::
 
 # How long to treat?
 
@@ -734,7 +794,9 @@ count *irrespective* of fever response.
 
 <!-- IMAGE: insert How-Long trial design / outcomes figure -->
 
+::: aside
 [@aguilar2017]
+:::
 
 ------------------------------------------------------------------------
 
@@ -751,7 +813,9 @@ count *irrespective* of fever response.
 - However, few alloHSCT patients enrolled
 - Average duration of fever in intervention group: 24 h
 
+::: aside
 [@aguilar2017]
+:::
 
 ------------------------------------------------------------------------
 
@@ -765,7 +829,9 @@ count *irrespective* of fever response.
 - Clinical failure rates were similar between arms; **higher rate of BSI
   in the post-implementation group**
 
+::: aside
 [@verlinden2022]
+:::
 
 ------------------------------------------------------------------------
 
@@ -816,9 +882,9 @@ recommendations**
 
 ::: aside
 FUO, fever of unknown origin.
-:::
 
 [@averbuch2013]
+:::
 
 # Unique infection risks with other immunosuppressive therapies
 
@@ -840,7 +906,9 @@ FUO, fever of unknown origin.
 
 <!-- IMAGE: insert mechanism / dose-response figures -->
 
+::: aside
 [@chastain2023]
+:::
 
 ------------------------------------------------------------------------
 
@@ -929,7 +997,9 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 | CLL | Ibrutinib / other BTKi (acalabrutinib, zanubrutinib, pirtobrutinib) | 80--90%+ |
 | Higher-risk MDS | Parenteral / oral HMAs, venetoclax, others | 40%+ |
 
+::: aside
 [@kantarjian2021lh; @kantarjian2021cancer]
+:::
 
 ------------------------------------------------------------------------
 
@@ -948,7 +1018,9 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 | Median survival | 18.9 mo                         | NR           |
 | HR              | 0.16 (0.09--0.28); *P* \< 0.001 |              |
 
+::: aside
 [@burger2015]
+:::
 
 ------------------------------------------------------------------------
 
@@ -966,7 +1038,9 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
   predisposing factors (e.g., steroids in 7, neutropenia in 5)
 - T2-FLAIR MRI showing multiple cerebral abscesses
 
+::: aside
 [@ghez2018; @chamilos2018]
+:::
 
 ------------------------------------------------------------------------
 
@@ -984,8 +1058,6 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 - IFI risk factors:
   - Monocytopenia (OR 6.00)
   - ≥3 prior CLL therapies (OR 5.36)
-
-[@varughese2018]
 :::
 
 ::: {.column width="50%"}
@@ -995,10 +1067,12 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 
 - 62.5% of subjects lacked "classical" risk factors for fungal
   infection.
-
-[@frei2020]
 :::
 :::::
+
+::: aside
+[@varughese2018; @frei2020]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1008,15 +1082,18 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 
 In the pivotal phase 1/2b studies, the most common adverse events were
 fatigue, diarrhea, muscle spasms, nausea, and bruising; relatively low
-incidence (18%) of pneumonia and only 1 case related to aspergillosis
-[@waller2019; @miklos2017].
+incidence (18%) of pneumonia and only 1 case related to aspergillosis.
 
 Limited "real-life" experience suggests higher rates of invasive fungal
-disease for steroid-refractory cGVHD [@kaloyannidis2021]:
+disease for steroid-refractory cGVHD:
 
 - Overall response in SR-cGVHD: 9/11 (82%)
 - Infections: 6/11 (55%)
 - Possible/proven invasive aspergillosis: 4/11 (36%)
+
+::: aside
+[@waller2019; @miklos2017; @kaloyannidis2021]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1025,7 +1102,7 @@ disease for steroid-refractory cGVHD [@kaloyannidis2021]:
 <br>
 
 | Class | Relative IA incidence | Antifungal-prophylaxis / DDI considerations |
-|-----------------|------------------|-------------------------------------|
+|-------------------|-------------------|-----------------------------------|
 | BiTE (blinatumomab) | Higher if post-alloHSCT, prolonged neutropenia, or CR — risk factors not reported | No known drug interactions |
 | FLT3 inhibitors (midostaurin, gilteritinib) | No clear ↑ post-alloHSCT? | Avoid strong CYP3A4 inhibitors; ↑ 2--10-fold AUC with itraconazole; monitor QTc; posaconazole or isavuconazole with TDM; no routine dose adjustment |
 | PI3Kδ (idelalisib) | ↑ risk of CMV, PJP, aspergillosis? | Avoid strong CYP3A4 inhibitors; ↑ 1.8-fold AUC with ketoconazole; monitor for toxicity |
@@ -1034,7 +1111,9 @@ disease for steroid-refractory cGVHD [@kaloyannidis2021]:
 | HMAs (azacytidine, decitabine) | Lower in newly-treated patients; higher in refractory disease | Antifungal prophylaxis may not be needed initially; no triazole interactions |
 | Hedgehog inhibitor (glasdegib) | No data | Avoid with azole; monitor QTc |
 
+::: aside
 [@logan2020]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1049,7 +1128,9 @@ Differential diagnosis should always include drug interactions in
 patients on triazoles.
 :::
 
+::: aside
 [@wang2020]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1079,7 +1160,9 @@ patients on triazoles.
   - **Fungal and other opportunistic infections** with prolonged
     neutropenia or corticosteroids
 
+::: aside
 [@gudiol2021]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1091,7 +1174,9 @@ patients on triazoles.
 
 <!-- IMAGE: insert ICI organ-toxicity figure -->
 
+::: aside
 [@martins2019]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1108,7 +1193,9 @@ receiving immune checkpoint blockers:
 - Combination ipilimumab + nivolumab: ↑ risk; pembrolizumab inversely
   associated
 
+::: aside
 [@delcastillo2016; @kyi2014; @arriola2015; @uslu2015]
+:::
 
 # Invasive fungal infections
 
@@ -1133,12 +1220,14 @@ lymphoma · *Nocardia*
 **Epidemiology use only**
 
 | Category | Required evidence |
-|-------------------------|----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | **Proven** | Direct evidence of fungal tissue invasion |
 | **Probable** | Host factors + clinical factors + indirect mycological evidence (e.g., galactomannan) |
 | **Possible** | Host factors + clinical factors |
 
+::: aside
 [@donnelly2019]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1150,7 +1239,9 @@ lymphoma · *Nocardia*
 
 <!-- IMAGE: insert CTPA with vessel-occlusion sign panel -->
 
+::: aside
 [@sonnet2005; @stergiopoulou2007; @bergeron2012]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1164,7 +1255,9 @@ lymphoma · *Nocardia*
 - **VOS negative:** bacterial pneumonia
 - VOS = vessel occlusion sign
 
+::: aside
 [@stanzani2012]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1212,7 +1305,9 @@ Possible etiologies on prophylaxis breakthrough:
 - *Scedosporium* spp.
 - Rare yeast (e.g., *Saprochaete clavata*)
 
+::: aside
 [@stanzani2019]
+:::
 
 ------------------------------------------------------------------------
 
@@ -1255,7 +1350,9 @@ Possible etiologies on prophylaxis breakthrough:
 
 <!-- IMAGE: insert time-to-defervescence curve -->
 
+::: aside
 [@depauw1994; @ramphal1992]
+:::
 
 ------------------------------------------------------------------------
 

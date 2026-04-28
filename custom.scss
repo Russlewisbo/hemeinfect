@@ -1,23 +1,23 @@
 /*-- scss:defaults --*/
 
 // fonts
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap');
 
 $font-family-sans-serif: 'IBM Plex Sans', Helvetica, Arial, sans-serif !default;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   "Liberation Mono", "Courier New", monospace !default;
 $presentation-font-size-root: 24px !default;
-$presentation-font-smaller: 0.7 !default;
-$presentation-line-height: 1.05 !default;
+$presentation-font-smaller: 0.85 !default;
+$presentation-line-height: 1.01 !default;
 
 // main colors
 $body-bg: #fff !default;
 $body-color: #222 !default;
-$heading-color: #b20e10 !default;
+$heading-color: #9B0014 !default;
 $text-muted: lighten($body-color, 30%) !default;
 
 // link colors
-$link-color: #222 !default;
+$link-color: #6b9fd4 !default;
 $link-color-hover: lighten($link-color, 10%) !default;
 
 // selection colors
@@ -154,6 +154,18 @@ $selectionColor: $selection-color !default;
 }
 
 /*-- scss:rules --*/
+
+// Color citation parentheses to match link color
+.reveal .citation {
+  color: $link-color;
+}
+
+// Ensure bullet markers are not clipped at the left edge of the slide
+.reveal ul,
+.reveal ol {
+  padding-left: 1.5em;
+}
+
 
 // Vertically center content on dark-background section divider slides
 // Uses !important to override Reveal.js scrollable slide styles
