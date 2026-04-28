@@ -111,20 +111,20 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 
 <br>
 
-| Parameter          | 1954-- <br>1959 N (%) | 1960-- <br>1963 N (%) | *p*     |
-|--------------------|-----------------------|-----------------------|---------|
-| Patients           | 184                   | 170                   |         |
-| Hemorrhage alone   | 40 (22)               | 25 (14)               | \<0.001 |
-| Infection alone    | 45 (24)               | 80 (44)               | \<0.001 |
-| Infections (total) | 124 (67)              | 131 (71)              | NS      |
-| *S. aureus*        | 30 (24)               | 6 (5)                 | \<0.001 |
-| *E. coli*          | 27 (22)               | 17 (13)               | NS      |
-| *Klebsiella* spp.  | 9 (7)                 | 16 (12)               | NS      |
-| *P. aeruginosa*    | 31 (25)               | 45 (34)               | NS      |
-| Fungi              | 10 (8)                | 30 (23)               | \<0.001 |
-| Other              | 24 (13)               | 23 (12)               | NS      |
+| Parameter          | 1954-- <br>1959, n (%) | 1960-- <br>1963, n(%) | *p*     |
+|-----------------|-------------------|-------------------|-----------------|
+| Patients           | 184                    | 170                   |         |
+| Hemorrhage alone   | 40 (22)                | 25 (14)               | \<0.001 |
+| Infection alone    | 45 (24)                | 80 (44)               | \<0.001 |
+| Infections (total) | 124 (67)               | 131 (71)              | NS      |
+| *S. aureus*        | 30 (24)                | 6 (5)                 | \<0.001 |
+| *E. coli*          | 27 (22)                | 17 (13)               | NS      |
+| *Klebsiella* spp.  | 9 (7)                  | 16 (12)               | NS      |
+| *P. aeruginosa*    | 31 (25)                | 45 (34)               | NS      |
+| Fungi              | 10 (8)                 | 30 (23)               | \<0.001 |
+| Other              | 24 (13)                | 23 (12)               | NS      |
 
-<br> br\>
+<br>
 
 - 47% of patients died with or from infection
 - *S. aureus* bacteremia mortality: 62%
@@ -208,6 +208,8 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 
 <br>
 
+![](images_FNspec/boggs.png){fig-align="center"}
+
 "It is useless to aggressively treat infections if the leukemia patient
 is not in remission."
 
@@ -215,11 +217,13 @@ is not in remission."
 [@boggs1962]
 :::
 
-## Impact of carbenicillin on *P. aeruginosa* septicaemia in leukemic patients
+## Impact of carbenicillin on *P. aeruginosa* septicaemia <br> in leukemic patients
 
 <br>
 
 <center>**MD Anderson Cancer Center, Houston, Texas USA** <br></center>
+
+<br> <br>
 
 | Clinical presentation  | 1965--68 Cure (%) | 1972--81 Cure (%) |
 |------------------------|-------------------|-------------------|
@@ -277,6 +281,8 @@ $$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands
 <center>***% of patients with the indicated neutrophil
 count/mm³***</center>
 
+<br> <br>
+
 | Signs and symptoms    | \<100 | 101--1000 | \>1000 |
 |-----------------------|-------|-----------|--------|
 | Fever                 | 98    | 90        | 76     |
@@ -296,41 +302,57 @@ count/mm³***</center>
 
 **A standard of care in febrile neutropenia**
 
-> "Beginning broad-spectrum empirical antibiotic therapy at the first
-> sign of fever in a profoundly neutropenic patient can be life-saving
-> and has been a standard of therapy for nearly 5 decades."
+"Beginning broad-spectrum empirical antibiotic therapy at the first sign
+of fever in a profoundly neutropenic patient can be life-saving and has
+been a standard of therapy for nearly 5 decades."
 
-::: fragment
-**Trigger:** fever (\>38.0 °C) and neutropenia (\<0.5 × 10⁹ cells/L)
-:::
+```{=html}
+<div style="font-family: Arial, sans-serif; font-size: 0.85em; max-width: 600px; margin: 1em auto;">
 
-::: fragment
-**Empiric IV monotherapy** (any of):
+  <!-- Trigger box -->
+  <div style="border: 1.5px solid #888; background: #f0f0f0; padding: 10px 16px; border-radius: 4px;">
+    <strong>Fever</strong> (≥ 38.0° C) <em><strong>and</strong></em> <strong>neutropenia</strong> (≤ 0.5 × 10<sup>9</sup> cells/L)
+  </div>
 
-- Piperacillin/tazobactam
-- Anti-pseudomonal carbapenem
-- Ceftazidime
-- Cefepime
-:::
+  <!-- Arrow -->
+  <div style="text-align: center; font-size: 1.6em; line-height: 1.2; color: #444;">↓</div>
 
-::: fragment
-**Adjust based on radiographic / culture data:**
+  <!-- Empiric therapy box -->
+  <div style="border: 1.5px solid #c0706a; background: #fde8e3; padding: 10px 16px; border-radius: 4px;">
+    <strong>IV antibiotics:</strong><br>
+    Empiric monotherapy (any of the following)
+    <ul style="margin: 6px 0 0 0; padding-left: 1.4em;">
+      <li>Piperacillin/tazobactam</li>
+      <li>Anti-pseudomonal carbapenem</li>
+      <li>Ceftazidime</li>
+      <li>Cefepime</li>
+    </ul>
+  </div>
 
-- Vancomycin/daptomycin or linezolid for cellulitis or pneumonia
-- Switch to carbapenem for pneumonia with Gram-negative bacteremia
-- Oral vancomycin for abdominal symptoms or suspected *C. difficile*
-- Antifungal therapy if persistent fever \> 72 h on antibiotics
-:::
+  <!-- Arrow -->
+  <div style="text-align: center; font-size: 1.6em; line-height: 1.2; color: #444;">↓</div>
 
-> "Many early approaches to the management of febrile neutropenic
-> patients remain relevant today, suggesting that some interventions
-> endure over the arc of time."
+  <!-- Adjustment box -->
+  <div style="border: 1.5px solid #c0706a; background: #fde8e3; padding: 10px 16px; border-radius: 4px;">
+    <strong>Adjust antimicrobials based on specific radiographic and/or culture data</strong>, <em>e.g.</em>
+    <ul style="margin: 6px 0 0 0; padding-left: 1.4em;">
+      <li>Vancomycin/daptomycin or linezolid for cellulitis or pneumonia</li>
+      <li>Switch to carbapenem for pneumonia with Gram-negative bacteremia</li>
+      <li>Oral vancomycin for abdominal symptoms or suspected <em>C. difficile</em></li>
+      <li>Antifungal therapy if persistent fever &gt; 72 hours on antibiotics</li>
+    </ul>
+  </div>
+
+</div>
+```
+
+"Many early approaches to the management of febrile neutropenic patients
+remain relevant today, suggesting that some interventions endure over
+the arc of time."
 
 ::: aside
 [@pizzo2019]
 :::
-
-------------------------------------------------------------------------
 
 ## Impact of improved supportive care
 
@@ -445,25 +467,17 @@ leukemia (*n* = 9 380)**
 
 CNS, central nervous system; GI, gastrointestinal.
 
-------------------------------------------------------------------------
-
 ## Vesicular lesions, mucosal ulcers and thrush
 
 <br>
 
 **HSV / VZV reactivation**
 
-<!-- IMAGE: insert clinical photos of mucocutaneous lesions -->
-
-------------------------------------------------------------------------
+![](images_FNspec/mouth.png){fig-align="center"}
 
 ## Skin lesions in neutropenic patients
 
 <br>
-
-<!-- IMAGE: insert skin-lesion clinical panel (was GoogleShape434p37.jpg) -->
-
-------------------------------------------------------------------------
 
 ## Ecthyma gangrenosum lesions
 
@@ -474,8 +488,6 @@ CNS, central nervous system; GI, gastrointestinal.
 :::
 
 <!-- IMAGE: insert ecthyma gangrenosum photo -->
-
-------------------------------------------------------------------------
 
 ## *Clostridium difficile* and neutropenic colitis
 
@@ -490,13 +502,9 @@ CNS, central nervous system; GI, gastrointestinal.
 - Oral vancomycin, fidaxomicin \> metronidazole
 - Limited data for FMT, bezlotoxumab
 
-<!-- IMAGE: insert CDI/neutropenic-colitis schematic -->
-
 ::: aside
 [@alonso2012]
 :::
-
-------------------------------------------------------------------------
 
 ## Pathogenesis of infection during neutropenia
 
