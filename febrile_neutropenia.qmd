@@ -881,6 +881,8 @@ FUO, fever of unknown origin.
 
 # Unique infection risks with other immunosuppressive therapies {background-color="#b20e10"}
 
+## Transplantation
+
 ## "Net state of immunosuppression"
 
 <br>
@@ -978,8 +980,6 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 [@kantarjian2021lh; @kantarjian2021cancer]
 :::
 
-------------------------------------------------------------------------
-
 ## Unexpected consequences?
 
 <br>
@@ -999,8 +999,6 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 [@burger2015]
 :::
 
-------------------------------------------------------------------------
-
 ## Aspergillosis associated with ibrutinib treatment
 
 <br>
@@ -1018,8 +1016,6 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 ::: aside
 [@ghez2018; @chamilos2018]
 :::
-
-------------------------------------------------------------------------
 
 ## Fungal infections in patients receiving ibrutinib for lymphoid cancers
 
@@ -1051,8 +1047,6 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 [@varughese2018; @frei2020]
 :::
 
-------------------------------------------------------------------------
-
 ## Ibrutinib for steroid-refractory cGVHD
 
 <br>
@@ -1072,8 +1066,6 @@ disease for steroid-refractory cGVHD:
 [@waller2019; @miklos2017; @kaloyannidis2021]
 :::
 
-------------------------------------------------------------------------
-
 ## Invasive fungal infection risk with targeted therapies
 
 <br>
@@ -1092,13 +1084,11 @@ disease for steroid-refractory cGVHD:
 [@logan2020]
 :::
 
-------------------------------------------------------------------------
-
 ## Adverse-effect monitoring: toxicities of small-molecule inhibitors (SMIs)
 
 <br>
 
-<!-- IMAGE: insert SMI toxicity overview figure -->
+![](images_FNspec/targeted.png){fig-align="center"}
 
 ::: callout-warning
 Differential diagnosis should always include drug interactions in
@@ -1109,21 +1099,17 @@ patients on triazoles.
 [@wang2020]
 :::
 
-------------------------------------------------------------------------
-
 ## Chimeric antigen receptor T-cell therapy
 
 <br>
 
-<!-- IMAGE: insert CAR-T therapy overview schematic -->
-
-------------------------------------------------------------------------
+![](images_FNspec/carT.png){fig-align="center"}
 
 ## Infection risk with CAR-T therapy
 
 <br>
 
-<!-- IMAGE: insert CAR-T timeline of infection risks (Day -5 → Day 75) -->
+![](images_FNspec/inf_carT.png){fig-align="center"}
 
 - Lymphodepleting chemotherapy (cyclophosphamide, fludarabine) → mucosal
   damage
@@ -1141,21 +1127,17 @@ patients on triazoles.
 [@gudiol2021]
 :::
 
-------------------------------------------------------------------------
-
 ## Checkpoint inhibitors
 
 <br>
 
 **Toxicities may overlap with symptoms of infection.**
 
-<!-- IMAGE: insert ICI organ-toxicity figure -->
+![](images_FNspec/checkpoint.png){fig-align="center"}
 
 ::: aside
 [@martins2019]
 :::
-
-------------------------------------------------------------------------
 
 ## Opportunistic infections during ICI / IRAE management
 
@@ -1174,21 +1156,17 @@ receiving immune checkpoint blockers:
 [@delcastillo2016; @kyi2014; @arriola2015; @uslu2015]
 :::
 
-# Invasive fungal infections
-
-------------------------------------------------------------------------
+# Invasive fungal infections {background-color="#b20e10"}
 
 ## Problem: non-specificity of CT findings
 
 <br>
 
-<!-- IMAGE: insert grid of CT images labeled with potential etiologies -->
+![](images_FNspec/non_spec.png){fig-align="center"}
 
 Possible causes of similar CT appearance: *P. aeruginosa* ·
 *Aspergillus* · *K. pneumoniae* · mould · CMV · *Cryptococcus* ·
 lymphoma · *Nocardia*
-
-------------------------------------------------------------------------
 
 ## EORTC/MSG definitions of invasive fungal disease
 
@@ -1206,27 +1184,23 @@ lymphoma · *Nocardia*
 [@donnelly2019]
 :::
 
-------------------------------------------------------------------------
-
 ## CT pulmonary angiography (CTPA) to improve specificity for invasive mold disease
 
 <br>
 
 **Fungal angioinvasion and vessel thrombosis**
 
-<!-- IMAGE: insert CTPA with vessel-occlusion sign panel -->
+![](images_FNspec/angioinvasion.png){fig-align="center"}
 
 ::: aside
 [@sonnet2005; @stergiopoulou2007; @bergeron2012]
 :::
 
-------------------------------------------------------------------------
-
 ## CTPA distinguishes mold vs. bacterial pneumonia in acute leukemia
 
 <br>
 
-<!-- IMAGE: insert VOS-positive vs. VOS-negative CT panel -->
+![](images_FNspec/vos_1.png){fig-align="center"}
 
 - **VOS positive:** proven mold disease by autopsy
 - **VOS negative:** bacterial pneumonia
@@ -1236,29 +1210,22 @@ lymphoma · *Nocardia*
 [@stanzani2012]
 :::
 
-------------------------------------------------------------------------
-
 ## CTPA: case examples
 
 <br>
 
-<!-- IMAGE: insert paired clinical CTPA cases -->
+![](images_FNspec/vos_2.png){fig-align="center"}
 
 - AML consolidation; neutropenia; posaconazole prophylaxis; serum GM
   negative → BAL: galactomannan 1.5 (VOS +)
 - Resistant CML; neutropenia; posaconazole prophylaxis; serum GM
   negative → BAL: MDR *P. aeruginosa* +, GM − (VOS −)
 
-------------------------------------------------------------------------
-
 ## PET/CT imaging: more useful for follow-up and detecting dissemination?
 
 <br>
 
-```{=html}
-<!-- IMAGE: insert ¹⁸F-FDG-PET/CT panels (sino-orbital aspergillosis,
-disseminated scedosporiosis, pulmonary aspergillus pre/post antifungal) -->
-```
+![](images_FNspec/PET.png){fig-align="center"}
 
 Selected ¹⁸F-FDG PET/CT images illustrating appearances of invasive
 fungal infection: (a) sino-orbital infection with *Aspergillus*; (b)
@@ -1266,47 +1233,31 @@ disseminated scedosporiosis with avid splenic lesion; (c) pulmonary
 *Aspergillus* lesion in left lower lobe with discordant PET/CT and CT
 response after antifungal treatment.
 
-------------------------------------------------------------------------
-
 ## Fungal sinusitis / pneumonia: breakthrough infections on prophylaxis
 
 <br>
 
-<!-- IMAGE: insert clinical / radiographic / micrographic panel -->
-
-Possible etiologies on prophylaxis breakthrough:
-
-- Resistant *Aspergillus*?
-- Mucorales
-- *Fusarium* spp.
-- *Scedosporium* spp.
-- Rare yeast (e.g., *Saprochaete clavata*)
+![](images_FNspec/breakthrough_fif.png){fig-align="center"}
 
 ::: aside
 [@stanzani2019]
 :::
 
-------------------------------------------------------------------------
-
 ## Invasive mucormycosis
 
 <br>
 
-<!-- IMAGE: insert mucormycosis clinical / radiographic panel -->
-
-------------------------------------------------------------------------
+![](images_FNspec/mucor.jpg){fig-align="center"}
 
 ## CT-specific findings for mucormycosis?
 
 <br>
 
-<!-- IMAGE: insert mucormycosis CT panel -->
+![](images_FNspec/mucor_CT.png){fig-align="center"}
 
 - Multiple bilateral nodular infiltrates
 
 # Final thoughts: what to do with persistent fever?
-
-------------------------------------------------------------------------
 
 ## Persistent fevers --- what to do?
 
@@ -1318,8 +1269,6 @@ Possible etiologies on prophylaxis breakthrough:
 - **No source control** (endocarditis? CLABSI, osteomyelitis,
   liver/abdominal abscess)
 - **Not enough time?**
-
-------------------------------------------------------------------------
 
 ## Defervescence after start of effective antibiotics in neutropenic patients
 
