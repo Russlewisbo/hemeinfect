@@ -489,13 +489,31 @@ leukemia (*n* = 9 380)**
 [@alonso2012]
 :::
 
+## Neutropenic enterocolitis (typhlitis)
+
+<br>
+
+## Neutropenic enterocolitis (typhlitis)
+
+![](images_FNspec/entercolitis.png){fig-align="center"}
+
+**Key features:**
+
+- Fever, abdominal pain, diarrhea
+- RLQ tenderness
+- CT: Bowel wall thickening
+
+**Management:**
+
+- Broad-spectrum antibiotics including anaerobes
+- Bowel rest, NG suction if obstruction
+- Surgery only for perforation/hemorrhage
+
 ## Pathogenesis of infection during neutropenia
 
 <br>
 
 ![](images_FNspec/sequence.png){fig-align="center" width="800"}
-
-------------------------------------------------------------------------
 
 ## Lung infiltrates in leukemia patients
 
@@ -513,6 +531,8 @@ leukemia (*n* = 9 380)**
 mortality**</center>
 
 ![](images_FNspec/BAL.png){fig-align="center"}
+
+# Antimicrobial resistance {background-color="#b20e10"}
 
 ## Infection risk versus duration of neutropenia
 
@@ -669,12 +689,10 @@ on HDS, 2009--2014)**
 5.  Colonization with carbapenem-producing *Enterobacterales*
 6.  **Carbapenem-resistant bloodstream infections**
 
-::: aside
-ECIL-10 systematic review confirms highest rates of resistance in
-**South-Eastern Europe** and a significant temporal increase in
-ESBL/3GCR, CR *K. pneumoniae*, and MDR *P. aeruginosa* over the past
-decade. [@baccelli2025]
-:::
+<br> <br> <br> ::: aside ECIL-10 systematic review confirms highest
+rates of resistance in **South-Eastern Europe** and a significant
+temporal increase in ESBL/3GCR, CR *K. pneumoniae*, and MDR *P.
+aeruginosa* over the past decade. [@baccelli2025] :::
 
 ## To give or not to give fluoroquinolone prophylaxis?
 
@@ -723,31 +741,22 @@ and underlying disease.
 
 # How long to treat?
 
-<center>
-<i class="fa-solid fa-calendar fa-10x"></i>
-</center>
+![](images_FNspec/roman.png){fig-align="center"}
 
-
-
-<br> <br> <br>
+Roman (Constantine) Calendar<br> <br> <br>
 
 **Classic dogma:** continue antibiotics until resolution of neutrophil
 count *irrespective* of fever response.
 
-## "How Long" study
-
-<br>
-
-::: aside
-[@aguilar2017]
-:::
-
 ## "How Long": key findings
+
+![](images_FNspec/Lancet.png){fig-align="center"}
 
 <br>
 
 - FUO patients afebrile and clinically stable for 72 h after start of
-  empiric therapy could safely stop antimicrobial therapy
+  empiric therapy could safely stop antimicrobial therapy vs. continue
+  untile resolution of neutropenia
 - No difference in mortality, subsequent BSI or recurrent fever between
   intervention and control arms
 - Antimicrobial-free days significantly higher in intervention arm
@@ -885,7 +894,23 @@ FUO, fever of unknown origin.
 
 # Unique infection risks with other immunosuppressive therapies {background-color="#b20e10"}
 
-## Transplantation
+## Hematopoetic stem cell transplantation (HSCT) recipients {.smaller}
+
+<br> <br>
+
+| Type | Stem Cell Source | Donor | Immunosuppression |
+|------------------|------------------|------------------|------------------|
+| **Autologous** | Peripheral blood, Bone marrow | Self | Moderate; no GvHD prophylaxis required; recovery within weeks |
+| **Allogeneic — matched related** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched sibling or family member | Severe; prolonged due to GvHD prophylaxis and risk of GvHD |
+| **Allogeneic — matched unrelated (MUD)** | Peripheral blood, Bone marrow, Umbilical cord blood | HLA-matched unrelated donor (registry) | Very severe; higher GvHD risk than matched related; intensive prophylaxis |
+| **Allogeneic — haploidentical** | Peripheral blood, Bone marrow | Half-matched family member (parent, child, sibling) | Very severe; requires intensive T-cell depletion or post-transplant cyclophosphamide |
+| **Allogeneic — umbilical cord blood** | Umbilical cord blood | Unrelated cord blood unit | Very severe; delayed immune reconstitution due to low cell dose |
+
+## Timeline of infection risk after allogeneic HSCT
+
+```{=html}
+<iframe src="post_transplant_infections_light.html" width="100%" height="800px"></iframe>
+```
 
 ## "Net state of immunosuppression"
 
@@ -906,8 +931,6 @@ FUO, fever of unknown origin.
 :::
 
 ## Suppressed cell-mediated immunity {.smaller}
-
-<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -952,19 +975,14 @@ FUO, fever of unknown origin.
 - Polyomaviruses
 - Influenza
 - Para-influenza
-- RSV
+- RSV <br> <br> Drugs that suppress cell-mediated immunity: purine
+  analogues (e.g., fludarabine, 2-CDA, clofarabine), alemtuzumab,
+  corticosteroids (\>20 mg prednisone equivalent for \>2 weeks), TNF-α
+  inhibitors…
 :::
 :::::
 
-::: aside
-Drugs that suppress cell-mediated immunity: purine analogues (e.g.,
-fludarabine, 2-CDA, clofarabine), alemtuzumab, corticosteroids (\>20 mg
-prednisone equivalent for \>2 weeks), TNF-α inhibitors…
-:::
-
 ## Leukemia progress: expansion of targeted therapies {.smaller}
-
-<br>
 
 | Disease | Current/future therapies | 5--10 yr survival |
 |------------------------|------------------------|------------------------|
@@ -1007,7 +1025,7 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 
 <br>
 
-![](images_FNspec/cns.png){fig-align="center"}
+![](images_FNspec/cns.png){fig-align="center" width="350"}
 
 - Retrospective French surveillance (FILO): 33 cases of aspergillosis in
   ibrutinib-treated CLL patients
@@ -1092,7 +1110,7 @@ disease for steroid-refractory cGVHD:
 
 <br>
 
-![](images_FNspec/targeted.png){fig-align="center"}
+![](images_FNspec/targeted.png){fig-align="center" width="800"}
 
 ::: callout-warning
 Differential diagnosis should always include drug interactions in
@@ -1107,13 +1125,13 @@ patients on triazoles.
 
 <br>
 
-![](images_FNspec/carT.png){fig-align="center"}
+![](images_FNspec/carT.png){fig-align="center" width="800"}
 
 ## Infection risk with CAR-T therapy
 
 <br>
 
-![](images_FNspec/inf_carT.png){fig-align="center"}
+![](images_FNspec/inf_carT.png){fig-align="center" width="500"}
 
 - Lymphodepleting chemotherapy (cyclophosphamide, fludarabine) → mucosal
   damage
@@ -1188,13 +1206,13 @@ lymphoma · *Nocardia*
 [@donnelly2019]
 :::
 
-## CT pulmonary angiography (CTPA) to improve specificity for invasive mold disease
+## CT pulmonary angiography (CTPA) can improve specificity <br> for imaging of invasive mold disease
 
 <br>
 
 **Fungal angioinvasion and vessel thrombosis**
 
-![](images_FNspec/angioinvasion.png){fig-align="center"}
+![](images_FNspec/angioinvasion.png){fig-align="center" width="800"}
 
 ::: aside
 [@sonnet2005; @stergiopoulou2007; @bergeron2012]
@@ -1204,7 +1222,7 @@ lymphoma · *Nocardia*
 
 <br>
 
-![](images_FNspec/vos_1.png){fig-align="center"}
+![](images_FNspec/vos_1.png){fig-align="center" width="800"}
 
 - **VOS positive:** proven mold disease by autopsy
 - **VOS negative:** bacterial pneumonia
@@ -1218,7 +1236,7 @@ lymphoma · *Nocardia*
 
 <br>
 
-![](images_FNspec/vos_2.png){fig-align="center"}
+![](images_FNspec/vos_2.png){fig-align="center" width="800"}
 
 - AML consolidation; neutropenia; posaconazole prophylaxis; serum GM
   negative → BAL: galactomannan 1.5 (VOS +)
@@ -1229,7 +1247,7 @@ lymphoma · *Nocardia*
 
 <br>
 
-![](images_FNspec/PET.png){fig-align="center"}
+![](images_FNspec/PET.png){fig-align="center" width="800"}
 
 Selected ¹⁸F-FDG PET/CT images illustrating appearances of invasive
 fungal infection: (a) sino-orbital infection with *Aspergillus*; (b)
@@ -1241,7 +1259,7 @@ response after antifungal treatment.
 
 <br>
 
-![](images_FNspec/breakthrough_fif.png){fig-align="center"}
+![](images_FNspec/breakthrough_fif.png){fig-align="center" width="800"}
 
 ::: aside
 [@stanzani2019]
@@ -1251,17 +1269,17 @@ response after antifungal treatment.
 
 <br>
 
-![](images_FNspec/mucor.jpg){fig-align="center"}
+![](images_FNspec/mucor.jpg){fig-align="center" width="800"}
 
 ## CT-specific findings for mucormycosis?
 
 <br>
 
-![](images_FNspec/mucor_CT.png){fig-align="center"}
+![](images_FNspec/mucor_CT.png){fig-align="center" width="800"}
 
 - Multiple bilateral nodular infiltrates
 
-# Final thoughts: what to do with persistent fever?
+# Final thoughts: what to do with persistent fever? {background-color="#b20e10"}
 
 ## Persistent fevers --- what to do?
 
@@ -1273,18 +1291,6 @@ response after antifungal treatment.
 - **No source control** (endocarditis? CLABSI, osteomyelitis,
   liver/abdominal abscess)
 - **Not enough time?**
-
-## Defervescence after start of effective antibiotics in neutropenic patients
-
-<br>
-
-<!-- IMAGE: insert time-to-defervescence curve -->
-
-::: aside
-[@depauw1994; @ramphal1992]
-:::
-
-------------------------------------------------------------------------
 
 ## Summary
 
@@ -1304,11 +1310,11 @@ malignancies**
 - Unique risk for infections with novel therapies --- an epidemiological
   black box.
 
-------------------------------------------------------------------------
-
 ## References {.smaller}
 
-<br>
+<style>
+.csl-entry { margin-bottom: 0.6em; }
+</style>
 
 ::: {#refs}
 :::
