@@ -204,28 +204,22 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 :::
 :::::
 
-------------------------------------------------------------------------
-
 ## Prevalent attitudes in hematology wards in the 1960s
 
 <br>
 
-> "It is useless to aggressively treat infections if the leukemia
-> patient is not in remission."
-
-<!-- IMAGE: insert period quote/photo (was GoogleShape231p22.jpg) -->
+"It is useless to aggressively treat infections if the leukemia patient
+is not in remission."
 
 ::: aside
 [@boggs1962]
 :::
 
-------------------------------------------------------------------------
-
 ## Impact of carbenicillin on *P. aeruginosa* septicaemia in leukemic patients
 
 <br>
 
-**MD Anderson Cancer Center** <br>
+<center>**MD Anderson Cancer Center, Houston, Texas USA** <br></center>
 
 | Clinical presentation  | 1965--68 Cure (%) | 1972--81 Cure (%) |
 |------------------------|-------------------|-------------------|
@@ -280,6 +274,9 @@ $$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands
 
 <br>
 
+<center>***% of patients with the indicated neutrophil
+count/mm³***</center>
+
 | Signs and symptoms    | \<100 | 101--1000 | \>1000 |
 |-----------------------|-------|-----------|--------|
 | Fever                 | 98    | 90        | 76     |
@@ -289,13 +286,9 @@ $$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands
 | Purulent sputum       | 8     | 67        | 84     |
 | Pyuria                | 11    | 63        | 97     |
 
-*% of patients with the indicated neutrophil count/mm³*
-
 ::: aside
 [@sickles1975]
 :::
-
-------------------------------------------------------------------------
 
 ## Empiric antimicrobial therapy
 
@@ -346,7 +339,7 @@ $$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands
 **Mortality during the first treatment month of acute myelogenous
 leukemia (*n* = 9 380)**
 
-<!-- IMAGE: insert SEER mortality-trend chart -->
+![](images_FNspec/percivel.png){fig-align="center" width="800"}
 
 - Induction chemotherapy largely unchanged since the 1970s.
 - Decreasing mortality trend present in **all** patient cohorts.
@@ -355,41 +348,25 @@ leukemia (*n* = 9 380)**
 [@percival2015]
 :::
 
-------------------------------------------------------------------------
-
 ## Pillars of hemato-oncology treatment
 
 <br>
 
-<!-- IMAGE: insert "pillars" infographic (chemotherapy / immunotherapy / radiation / surgery / personalized) -->
-
-- Chemotherapy
-- Immunotherapy / transplantation
-- Radiation
-- Surgery
-- **Targeted chemotherapy**
-- **Personalized immunotherapy** --- immune checkpoint inhibitors, CAR-T
-  therapy
+![](images_FNspec/pillars.png){fig-align="center"}
 
 # Pathogenesis and epidemiology
-
-------------------------------------------------------------------------
 
 ## Pathogenesis of infection during neutropenia
 
 <br>
 
-<!-- IMAGE: insert pathogenesis diagram (was GoogleShape323p30.jpg) -->
-
-------------------------------------------------------------------------
+![](images_FNspec/sequence.png){fig-align="center"}
 
 ## Chemotherapy-associated dysbiosis and mucosal barrier injury
 
 <br>
 
-<!-- IMAGE: insert dysbiosis / mucosal-injury figure (BioRender) -->
-
-------------------------------------------------------------------------
+![](images_FNspec/dysbiosis.png){fig-align="center"}
 
 ## Mucositis
 
@@ -397,9 +374,7 @@ leukemia (*n* = 9 380)**
 
 **WHO oral toxicity scale**
 
-<!-- IMAGE: insert WHO oral mucositis grade panel -->
-
-------------------------------------------------------------------------
+![](images_FNspec/mucositis.png){fig-align="center"
 
 ## GI tract is the major source of bacteremia
 
@@ -449,22 +424,16 @@ leukemia (*n* = 9 380)**
 :::
 :::::
 
-------------------------------------------------------------------------
-
 ## Causes of fever complicating induction chemotherapy
 
 <br>
 
 **AML patients (*n* = 748); Seràgnoli Institute 2007--2020**
 
-<!-- IMAGE: insert pie/bar chart of fever etiologies -->
-
 - Bacteremia documented in 10--25% of patients with fever
 - Aerobic Gram-positive and Gram-negative organisms
 - "Infectious etiologies are identified in \<50% of episodes"
 - 5.4% KPC *K. pneumoniae*; 2.5% ESBL *E. coli*
-
-------------------------------------------------------------------------
 
 ## Clinical manifestations of culture-documented infection
 
@@ -1102,7 +1071,7 @@ disease for steroid-refractory cGVHD:
 <br>
 
 | Class | Relative IA incidence | Antifungal-prophylaxis / DDI considerations |
-|-------------------|-------------------|-----------------------------------|
+|-------------------|-------------------|----------------------------------|
 | BiTE (blinatumomab) | Higher if post-alloHSCT, prolonged neutropenia, or CR — risk factors not reported | No known drug interactions |
 | FLT3 inhibitors (midostaurin, gilteritinib) | No clear ↑ post-alloHSCT? | Avoid strong CYP3A4 inhibitors; ↑ 2--10-fold AUC with itraconazole; monitor QTc; posaconazole or isavuconazole with TDM; no routine dose adjustment |
 | PI3Kδ (idelalisib) | ↑ risk of CMV, PJP, aspergillosis? | Avoid strong CYP3A4 inhibitors; ↑ 1.8-fold AUC with ketoconazole; monitor for toxicity |
