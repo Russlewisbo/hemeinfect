@@ -112,7 +112,7 @@ hematopoietic progenitor cells, resulting in dose-limiting **anemia**,
 <br>
 
 | Parameter          | 1954-- <br>1959, n (%) | 1960-- <br>1963, n(%) | *p*     |
-|--------------------|------------------------|-----------------------|---------|
+|------------------|------------------|------------------|------------------|
 | Patients           | 184                    | 170                   |         |
 | Hemorrhage alone   | 40 (22)                | 25 (14)               | \<0.001 |
 | Infection alone    | 45 (24)                | 80 (44)               | \<0.001 |
@@ -474,9 +474,7 @@ leukemia (*n* = 9 380)**
 
 ## *Clostridium difficile* and neutropenic colitis {.smaller}
 
-![](images_FNspec/cdifficile.png){fig-align="center" width="350"}
-
-<br>
+![](images_FNspec/cdifficile.png){fig-align="center" width="250"}
 
 - Diarrhea is common --- both infectious and non-infectious causes
   - Chemotherapy-associated mucosal injury
@@ -485,7 +483,7 @@ leukemia (*n* = 9 380)**
 - *C. difficile*-associated diarrhea (CDAD): incidence 10--30% in some
   studies
 - Oral vancomycin, fidaxomicin \> metronidazole
-- Limited data for FMT, bezlotoxumab
+- Limited data for fecal microbiota transplant, bezlotoxumab
 
 ::: aside
 [@alonso2012]
@@ -580,7 +578,7 @@ Rectal swab surveillance identifies patients at highest risk of
 MDR-related bloodstream infection (BSI) during neutropenia.
 
 | Feature | ESBL-*E* | CR-*Klebsiella* (KPC) | MDR *P. aeruginosa* |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Prevalence at admission** (HM inpatients) | Most common MDR-GNB | \~3–6% in high-endemicity areas | Variable; rising in Italy and SE Europe |
 | **Colonization → concordant BSI** | \~14–16% | \~14% | Up to 20–25% |
 | **BSI occurs mainly during…** | Neutropenia (87% of cases) | Neutropenia | Neutropenia / mucositis |
@@ -621,7 +619,7 @@ systems and traps.
 **International guidelines on FQ prophylaxis**
 
 | Author, Year | Organization | Population | Recommendation |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Bucaneve, 2007 | ECIL-1 | NP, high-risk | ✅ FQP recommended |
 | Freifeld, 2011 | IDSA | NP, high-risk | ✅ FQP recommended |
 | Slavin, 2011 | Victorian Integrated Cancer Services, Australia | NP, high-risk | ⚠️ FQP **not** recommended (lack of mortality benefit; resistance risk) |
@@ -635,7 +633,7 @@ systems and traps.
 NP, neutropenic patients; HDC, high-dose chemotherapy; FQP,
 fluoroquinolone prophylaxis.
 
-## Do all patients benefit from FQ prophylaxis / BSI reduction?
+## Do all patients benefit from FQ prophylaxis / <br> BSI reduction?
 
 <br>
 
@@ -672,10 +670,10 @@ on HDS, 2009--2014)**
 6.  **Carbapenem-resistant bloodstream infections**
 
 ::: aside
-ECIL-10 systematic review confirms a **south-eastern European resistance
-gradient** and a significant temporal increase in ESBL/3GCR, CR *K.
-pneumoniae*, and MDR *P. aeruginosa* over the past decade.
-[@baccelli2025]
+ECIL-10 systematic review confirms highest rates of resistance in
+**South-Eastern Europe** and a significant temporal increase in
+ESBL/3GCR, CR *K. pneumoniae*, and MDR *P. aeruginosa* over the past
+decade. [@baccelli2025]
 :::
 
 ## To give or not to give fluoroquinolone prophylaxis?
@@ -725,14 +723,20 @@ and underlying disease.
 
 # How long to treat?
 
+<center>
+<i class="fa-solid fa-calendar fa-10x"></i>
+</center>
+
+
+
+<br> <br> <br>
+
 **Classic dogma:** continue antibiotics until resolution of neutrophil
 count *irrespective* of fever response.
 
 ## "How Long" study
 
 <br>
-
-<!-- IMAGE: insert How-Long trial design / outcomes figure -->
 
 ::: aside
 [@aguilar2017]
@@ -963,7 +967,7 @@ prednisone equivalent for \>2 weeks), TNF-α inhibitors…
 <br>
 
 | Disease | Current/future therapies | 5--10 yr survival |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Hairy-cell leukemia | Cladribine + rituximab | 90% |
 | Acute promyelocytic leukemia | ATRA ± gemtuzumab ozogamicin (GO) | 80--90% |
 | Core-binding-factor AML | FLAG-GO ± IDA; alloHSCT if MRD-positive | 80--90% |
@@ -1071,7 +1075,7 @@ disease for steroid-refractory cGVHD:
 <br>
 
 | Class | Relative IA incidence | Antifungal-prophylaxis / DDI considerations |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | BiTE (blinatumomab) | Higher if post-alloHSCT, prolonged neutropenia, or CR — risk factors not reported | No known drug interactions |
 | FLT3 inhibitors (midostaurin, gilteritinib) | No clear ↑ post-alloHSCT? | Avoid strong CYP3A4 inhibitors; ↑ 2--10-fold AUC with itraconazole; monitor QTc; posaconazole or isavuconazole with TDM; no routine dose adjustment |
 | PI3Kδ (idelalisib) | ↑ risk of CMV, PJP, aspergillosis? | Avoid strong CYP3A4 inhibitors; ↑ 1.8-fold AUC with ketoconazole; monitor for toxicity |
@@ -1175,7 +1179,7 @@ lymphoma · *Nocardia*
 **Epidemiology use only**
 
 | Category | Required evidence |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Proven** | Direct evidence of fungal tissue invasion |
 | **Probable** | Host factors + clinical factors + indirect mycological evidence (e.g., galactomannan) |
 | **Possible** | Host factors + clinical factors |
